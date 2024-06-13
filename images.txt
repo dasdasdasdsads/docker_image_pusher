@@ -1,4 +1,4 @@
-anjone/kicbase:v0.0.8
+google_containers/pause:3.7
 
 #nginx
 #支持私库
