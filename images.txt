@@ -1,4 +1,12 @@
-redis:6.0.8
+registry.k8s.io/kube-scheduler:v1.20.0
+registry.k8s.io/kube-controller-manager:v1.20.0
+registry.k8s.io/coredns:1.7.0
+registry.k8s.io/kube-apiserver:v1.20.0
+registry.k8s.io/etcd:3.4.13-0
+registry.k8s.io/pause:3.2
+gcr.io/k8s-minikube/storage-provisioner:v5
+registry.k8s.io/kube-proxy:v1.20.0'
+
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
