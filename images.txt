@@ -1,6 +1,8 @@
-bitnami/redis-sentinel:7.2.5-debian-12-r0
-bitnami/kubectl:1.30.2-debian-12-r0
-bitnami/redis:7.2.5-debian-12-r0
+docker.elastic.co/elasticsearch/elasticsearch:7.16.1
+kibana:7.16.1 
+logstash:7.16.1
+
+
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
